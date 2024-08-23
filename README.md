@@ -1,4 +1,5 @@
 # MintingNFT
+- simple candymachine Ui for minting NFT
 
 # Steps Perfromed 
 ## wallet setup :
